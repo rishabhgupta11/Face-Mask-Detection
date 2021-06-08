@@ -1,8 +1,8 @@
 # Face Mask Detection
 
-##A face mask detection project created using convolutional neural network.
+## A face mask detection project created using convolutional neural network.
 
-##Steps:
+## Steps:
 
 1. Download zip of this repository.
 2. Open the ipynb file in Google Colab.
