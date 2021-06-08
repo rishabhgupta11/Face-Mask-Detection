@@ -1,6 +1,6 @@
 # Face Mask Detection
 
-## A face mask detection project created using convolutional neural network.
+A face mask detection project created using convolutional neural network.
 
 ## Steps:
 
